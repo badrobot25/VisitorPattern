@@ -1,0 +1,9 @@
+c:\users\silviutudor\documents\visual studio 2013\Projects\VisitorPat\VisitorPat\bin\Debug\VisitorPat.exe.config
+c:\users\silviutudor\documents\visual studio 2013\Projects\VisitorPat\VisitorPat\bin\Debug\VisitorPat.exe
+c:\users\silviutudor\documents\visual studio 2013\Projects\VisitorPat\VisitorPat\bin\Debug\VisitorPat.pdb
+c:\users\silviutudor\documents\visual studio 2013\Projects\VisitorPat\VisitorPat\obj\Debug\VisitorPat.csprojResolveAssemblyReference.cache
+c:\users\silviutudor\documents\visual studio 2013\Projects\VisitorPat\VisitorPat\obj\Debug\VisitorPat.exe
+c:\users\silviutudor\documents\visual studio 2013\Projects\VisitorPat\VisitorPat\obj\Debug\VisitorPat.pdb
+C:\Users\Bad Robot\Documents\Visual Studio 2013\Projects\VisitorPat\VisitorPat\bin\Debug\VisitorPat.exe.config
+C:\Users\Bad Robot\Documents\Visual Studio 2013\Projects\VisitorPat\VisitorPat\obj\Debug\VisitorPat.exe
+C:\Users\Bad Robot\Documents\Visual Studio 2013\Projects\VisitorPat\VisitorPat\obj\Debug\VisitorPat.pdb
